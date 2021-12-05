@@ -4,8 +4,7 @@
   "description": "测试脚手架",
   "homepage": "",
   "author": {
-    "name": "liuxuewei",
-    "url": ""
+    "name": "liuxuewei"
   },
   "files": [
     "generators"
