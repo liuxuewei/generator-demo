@@ -5,7 +5,6 @@
   "homepage": "",
   "author": {
     "name": "liuxuewei",
-    "email": "xuewei.lxw@alibaba-inc.com",
     "url": ""
   },
   "files": [
@@ -13,7 +12,6 @@
   ],
   "main": "generators/index.js",
   "keywords": [
-    "",
     "yeoman-generator"
   ],
   "devDependencies": {
